@@ -1,6 +1,3 @@
-Sure, I'll provide a template for a README.md file that you can use to document your project on GitHub. Feel free to customize it according to your project specifics.
-
-```markdown
 # Malayalam Melody Web App
 
 This is the repository for the WEB222 Music App project, "Malayalam Melody." The app showcases Malayalam songs and artists, allowing users to explore and discover soul-melting melodies.
@@ -13,7 +10,6 @@ This is the repository for the WEB222 Music App project, "Malayalam Melody." The
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
@@ -33,7 +29,7 @@ Make sure you have the following software installed on your machine:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/malayalam-melody.git
+   git clone https://github.com/Ashwin-BN/WEB222-Project.git
    ```
 
 2. Open the project in your code editor.
@@ -41,7 +37,7 @@ Make sure you have the following software installed on your machine:
 3. Open the `index.html` file in a web browser.
 
 ## Usage
-1. Visit the [Malayalam Melody](https://your-username.github.io/malayalam-melody/) web app.
+1. Visit the [Malayalam Melody](https://github.com/Ashwin-BN/WEB222-Project.git) web app.
 2. Explore the existing artists and their top songs.
 3. Request a new artist by filling out the form in the "Request a New Artist" section.
 
@@ -55,5 +51,3 @@ If you would like to contribute to the project, please follow these steps:
 
 ## Acknowledgments
 - Special thanks to the [Water.css](https://watercss.kognise.dev/) project for the classless CSS stylesheet.
-
-```
