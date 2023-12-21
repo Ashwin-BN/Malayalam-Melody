@@ -51,3 +51,8 @@ If you would like to contribute to the project, please follow these steps:
 
 ## Acknowledgments
 - Special thanks to the [Water.css](https://watercss.kognise.dev/) project for the classless CSS stylesheet.
+
+## Credits
+- **Author**: Ashwin B N
+- **Institution**: Seneca College
+- **Course**: WEB222
