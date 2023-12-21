@@ -1,0 +1,120 @@
+body {
+  margin: auto;
+  padding: 0.8rem;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 0.5em;
+}
+
+h2 {
+  margin: 2rem 0rem 0rem 0rem;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  max-width: 80vw;
+  margin: 0 auto;
+  margin-top: 2em;
+  gap: 2.5em;
+}
+
+.card {
+  width: 14rem;
+  background-color: #122029;
+  padding: 1em;
+  border-radius: 1.2em;
+  transition: all 0.5s ease;
+  position: relative;
+}
+
+.card:hover {
+  transform: translateY(-0.5em);
+  cursor: pointer;
+  border: rgb(23, 115, 92) 1px solid;
+  box-shadow:
+    #535a59 2px 2px 10px,
+    #dede5f 2px 2px 10px;
+}
+
+.card:active {
+  transform: translateY(1px);
+}
+
+.card h2 {
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-top: 1em;
+  color: #d9fffb;
+}
+
+.year-duration {
+  color: #d9fffb;
+  font-size: 1em;
+  margin-top: 0.4em;
+  display: flex;
+}
+
+.duration {
+  margin-left: auto;
+}
+
+/* home Button */
+#homeButton {
+  cursor: pointer;
+}
+
+/*==========================*/
+
+/* Grid layout for the form */
+#artistsRequestForm {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 4fr;
+  margin-bottom: 20px;
+}
+
+#artistsRequestForm label {
+  text-align: right;
+  margin-right: 1rem;
+}
+
+/* Style the input elements */
+#artistsRequestForm input[type="text"],
+#artistsRequestForm input[type="url"],
+#artistsRequestForm textarea {
+  padding: 0.6rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+}
+
+#submit-button {
+  margin-top: 1rem;
+  padding: 1rem 5rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 7px;
+  cursor: pointer;
+  justify-self: center;
+}
+
+#artistsRequestForm button[type="submit"]:hover {
+  background-color: #09b300;
+}
+
+#addSong {
+  margin-top: 0.5rem;
+}
+
+#add-artist-header {
+  margin-left: 1rem;
+  font-size: 2rem;
+}
