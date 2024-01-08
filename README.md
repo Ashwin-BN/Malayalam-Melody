@@ -3,7 +3,7 @@
 This is the repository for the WEB222 Music App project, "Malayalam Melody." The app showcases Malayalam songs and artists, allowing users to explore and discover soul-melting melodies.
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](##introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
