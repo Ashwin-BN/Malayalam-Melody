@@ -37,7 +37,7 @@ Make sure you have the following software installed on your machine:
 3. Open the `index.html` file in a web browser.
 
 ## Usage
-1. Visit the [Malayalam Melody](https://github.com/Ashwin-BN/WEB222-Project.git) web app.
+1. Visit the [Malayalam Melody](https://ashwin-bn.github.io/Malayalam-Melody/) web app.
 2. Explore the existing artists and their top songs.
 3. Request a new artist by filling out the form in the "Request a New Artist" section.
 
